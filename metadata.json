@@ -1,0 +1,5 @@
+{
+  "name": "Yelp Sentiment Auditor",
+  "description": "A React application to evaluate and compare different Gemini prompting strategies for sentiment analysis on Yelp reviews.",
+  "requestFramePermissions": []
+}
